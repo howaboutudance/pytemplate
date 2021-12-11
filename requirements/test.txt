@@ -1,5 +1,4 @@
+-r common.txt
 pytest
 tox
 mypy
-wheel
-setuptools
